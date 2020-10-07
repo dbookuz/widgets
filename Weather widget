@@ -10,7 +10,7 @@ const widgetParams = JSON.parse((args.widgetParameter != null) ? args.widgetPara
 // WEATHER API PARAMETERS !important
 // API KEY, you need an Open Weather API Key
 // You can get one for free at: https://home.openweathermap.org/api_keys (account needed).
-const API_KEY = "b2ff987c496017d4d8e2d4abf1875223"
+const API_KEY = ""
 
 // Latitude and Longitude of the location where you get the weather of.
 // You can get those from the Open Weather website while searching for a city, etc.
